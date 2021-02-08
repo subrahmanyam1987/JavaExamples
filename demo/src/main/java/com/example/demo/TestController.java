@@ -6,5 +6,5 @@ public class TestController {
     public void test(){
         System.out.println("test class");
     }
-    public void test3(){};
+    public void test3(String b){};
 }
